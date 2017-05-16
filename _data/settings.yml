@@ -1,0 +1,10 @@
+lang: 'en'
+title: 'PalakTube'
+email: 'palaktube@gmail.com'
+
+menu: 
+ - {name: 'popular video'}
+ - {name: 'top rated'}
+ - {name: 'category'}
+ - {name: 'longest'}
+ - {name: 'contact'}
