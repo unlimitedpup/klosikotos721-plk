@@ -27,7 +27,6 @@ tags:
  - juicy-ass
  - lot-booty
  - big-cock
-img: post8.jpg
 priority: 0.9
 changefreq: daily
 ---

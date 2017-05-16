@@ -13,7 +13,6 @@ tags:
  - nene
  - masterbate
  - sucked
-img: post2.jpg
 priority: 0.9
 changefreq: daily
 ---
