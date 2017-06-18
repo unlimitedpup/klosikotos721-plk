@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Pinay Pornstar kinantot sa sopa
-duration: '06:13'
-view: 184
+title: Satisfied na satisfied si nobya
+duration: '9:29'
+view: 188
 rate: 2
-video: 'https://flashservice.xvideos.com/embedframe/26851747'
+video: 'https://flashservice.xvideos.com/embedframe/16939829'
 category: 
  - pinay
 tags: 

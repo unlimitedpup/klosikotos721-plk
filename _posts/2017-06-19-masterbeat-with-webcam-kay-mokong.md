@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Pinay Pornstar kinantot sa sopa
-duration: '06:13'
-view: 184
+title: Masterbeat with webcam kay mokong
+duration: '14:09'
+view: 205
 rate: 2
-video: 'https://flashservice.xvideos.com/embedframe/26851747'
+video: 'https://flashservice.xvideos.com/embedframe/6293494'
 category: 
  - pinay
+ - pov
 tags: 
  - pinay-sex
  - nagparaos
@@ -15,6 +16,7 @@ tags:
  - fucked
  - jackpot
  - flawless
+ - masterbeat
 priority: 0.9
 changefreq: daily
 ---

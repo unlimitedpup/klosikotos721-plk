@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Pinay Pornstar kinantot sa sopa
-duration: '06:13'
-view: 184
+title: Magandang kabit sinibak sa hotel
+duration: '1:26'
+view: 305
 rate: 2
-video: 'https://flashservice.xvideos.com/embedframe/26851747'
+video: 'https://flashservice.xvideos.com/embedframe/26508065'
 category: 
  - pinay
 tags: 
