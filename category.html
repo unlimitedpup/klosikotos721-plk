@@ -25,7 +25,7 @@ changefreq: daily
 
    <a class='post-item' href='{{ site.baseurl }}{{ cat-page.url }}'>
       <figure class='img'>
-         <img src="{{ site.baseurl }}/assets/img/{{ cat-post.title | replace: ' ', '-' | downcase }}.jpg" alt='{{ site.data.settings.title}} {{ post.title }}'>
+         <img src="{{ site.baseurl }}/assets/img/{{ cat-post.title | replace: ' ', '-' | downcase }}.jpg" alt="{{ site.data.settings.title}} {{ cat[0] | capitalize | replace: '-', ' '}}">
       </figure>
       <div class='text'>
          <div class='title'><strong>{{ cat[0] | capitalize | replace: '-', ' ' }}</strong></div>
@@ -39,5 +39,5 @@ changefreq: daily
    {% endif %}
    {% endfor %}
    {% endfor %}
-{% endif %}
+{% endif %} 
 </section>
