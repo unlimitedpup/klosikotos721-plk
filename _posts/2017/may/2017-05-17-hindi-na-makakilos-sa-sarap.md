@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sobrang nasarapan si nene sinibak ng kumpare
-duration: '07:00'
-view: 160
+title: Hindi na makakilos sa sarap
+duration: '05:39'
+view: 221
 rate: 2
-video: 'https://flashservice.xvideos.com/embedframe/17103637'
+video: 'https://flashservice.xvideos.com/embedframe/24596307'
 category: 
  - pinay
 tags: 
@@ -15,7 +15,7 @@ tags:
  - fucked
  - jackpot
  - flawless
- - kumpare
+ - hotel
 priority: 0.9
 changefreq: daily
 ---

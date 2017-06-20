@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Sarap na sarap si chinita
-duration: '08:08'
-view: 158
+title: Jackpot si mokong kay nene
+duration: '01:23'
+view: 125
 rate: 2
-video: 'https://flashservice.xvideos.com/embedframe/14523497'
+video: 'https://flashservice.xvideos.com/embedframe/27035955'
 category: 
  - pinay
+ - student
 tags: 
  - pinay-sex
  - nagparaos
@@ -14,8 +15,7 @@ tags:
  - mokong
  - fucked
  - jackpot
- - flawless
- - chinita
+ - hotel
 priority: 0.9
 changefreq: daily
 ---

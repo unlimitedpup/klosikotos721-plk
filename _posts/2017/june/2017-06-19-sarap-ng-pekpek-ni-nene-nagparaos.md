@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Nagpa webcam show si ganda
-duration: '13:48'
-view: 157
+title: Sarap ng pekpek ni nene nagparaos
+duration: '1:30'
+view: 152
 rate: 2
-video: 'https://flashservice.xvideos.com/embedframe/14546175'
+video: 'https://flashservice.xvideos.com/embedframe/27035951'
 category: 
  - pinay
  - pov
@@ -13,8 +13,8 @@ tags:
  - nagparaos
  - nene
  - jackpot
- - masterbeat
  - flawless
+ - masterbeat
  - webcam
  - show
 priority: 0.9

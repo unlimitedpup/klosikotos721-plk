@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Sobrang nasarapan si nene sinibak ng kumpare
-duration: '07:00'
-view: 160
+title: Parang wala lang ng kinantot ni mokong sa labas
+duration: '00:43'
+view: 252
 rate: 2
-video: 'https://flashservice.xvideos.com/embedframe/17103637'
+video: 'https://flashservice.xvideos.com/embedframe/26644783'
 category: 
  - pinay
+ - outdoor
 tags: 
  - pinay-sex
  - nagparaos
@@ -15,7 +16,6 @@ tags:
  - fucked
  - jackpot
  - flawless
- - kumpare
 priority: 0.9
 changefreq: daily
 ---

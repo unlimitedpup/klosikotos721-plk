@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sobrang nasarapan si nene sinibak ng kumpare
-duration: '07:00'
-view: 160
+title: mang kanor sex scandal part 1
+duration: '06:44'
+view: 188
 rate: 2
-video: 'https://flashservice.xvideos.com/embedframe/17103637'
+video: 'https://flashservice.xvideos.com/embedframe/24631085'
 category: 
  - pinay
 tags: 
@@ -15,7 +15,6 @@ tags:
  - fucked
  - jackpot
  - flawless
- - kumpare
 priority: 0.9
 changefreq: daily
 ---

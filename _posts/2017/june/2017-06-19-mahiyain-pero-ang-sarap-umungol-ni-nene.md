@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sobrang nasarapan si nene sinibak ng kumpare
-duration: '07:00'
-view: 160
+title: Mahiyain pero ang sarap umungol ni nene
+duration: '7:55'
+view: 201
 rate: 2
-video: 'https://flashservice.xvideos.com/embedframe/17103637'
+video: 'https://flashservice.xvideos.com/embedframe/26874605'
 category: 
  - pinay
 tags: 
@@ -15,7 +15,6 @@ tags:
  - fucked
  - jackpot
  - flawless
- - kumpare
 priority: 0.9
 changefreq: daily
 ---

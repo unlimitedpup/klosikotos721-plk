@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Sarap na sarap si chinita
-duration: '08:08'
-view: 158
+title: Swerte naman ni mokong naka dalawa
+duration: '18:25'
+view: 252
 rate: 2
-video: 'https://flashservice.xvideos.com/embedframe/14523497'
+video: 'https://flashservice.xvideos.com/embedframe/15368731'
 category: 
  - pinay
+ - threesome
 tags: 
  - pinay-sex
  - nagparaos
@@ -14,8 +15,6 @@ tags:
  - mokong
  - fucked
  - jackpot
- - flawless
- - chinita
 priority: 0.9
 changefreq: daily
 ---
