@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nahuli nagkantotan dahil sa pokemon go
-duration: '39sec'
+duration: '00:39'
 view: 218
 rate: 2
 video: 'https://flashservice.xvideos.com/embedframe/24709191'

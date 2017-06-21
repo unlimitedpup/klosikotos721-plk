@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sarap ni best
-duration: '5:47'
+duration: '05:47'
 view: 185
 rate: 2
 video: 'https://flashservice.xvideos.com/embedframe/27079623'

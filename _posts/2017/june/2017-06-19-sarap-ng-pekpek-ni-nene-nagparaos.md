@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sarap ng pekpek ni nene nagparaos
-duration: '1:30'
+duration: '01:30'
 view: 152
 rate: 2
 video: 'https://flashservice.xvideos.com/embedframe/27035951'

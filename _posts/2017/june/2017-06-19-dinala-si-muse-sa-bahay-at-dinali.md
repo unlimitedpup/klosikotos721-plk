@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dinala si muse sa bahay at dinali
-duration: '3:28'
+duration: '03:28'
 view: 95
 rate: 2
 video: 'https://flashservice.xvideos.com/embedframe/27079553'

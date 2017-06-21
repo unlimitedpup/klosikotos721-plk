@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ganda ni nobya at ang sarap pa ng ungol
-duration: '2:56'
+duration: '02:56'
 view: 205
 rate: 2
 video: 'https://flashservice.xvideos.com/embedframe/27035961'

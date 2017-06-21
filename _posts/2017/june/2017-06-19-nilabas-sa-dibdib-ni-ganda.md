@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nilabas sa dibdib ni ganda
-duration: '1:51'
+duration: '01:51'
 view: 255
 rate: 2
 video: 'https://flashservice.xvideos.com/embedframe/27010421'

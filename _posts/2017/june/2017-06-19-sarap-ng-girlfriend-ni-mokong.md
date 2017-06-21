@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sarap ng girlfriend ni mokong
-duration: '7:59'
+duration: '07:59'
 view: 85
 rate: 2
 video: 'https://flashservice.xvideos.com/embedframe/26664659'
