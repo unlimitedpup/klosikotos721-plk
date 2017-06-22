@@ -7,10 +7,12 @@ rate: 2
 video: 'https://flashservice.xvideos.com/embedframe/26889059'
 category: 
  - pinay
+ - rough
 tags: 
  - pinay-sex
  - nagparaos
  - nene
+ - hotel
  - fucked
 priority: 0.9
 changefreq: daily

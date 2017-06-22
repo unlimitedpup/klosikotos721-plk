@@ -7,6 +7,7 @@ rate: 2
 video: 'https://flashservice.xvideos.com/embedframe/27256229'
 category: 
  - pinay
+ - beautiful
 tags: 
  - pinay-sex
  - nagparaos

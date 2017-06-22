@@ -7,6 +7,9 @@ rate: 2
 video: 'https://flashservice.xvideos.com/embedframe/21284861'
 category: 
  - pinay
+ - outdoor 
+ - beautiful
+ - quickie
 tags: 
  - pinay-sex
  - nagparaos

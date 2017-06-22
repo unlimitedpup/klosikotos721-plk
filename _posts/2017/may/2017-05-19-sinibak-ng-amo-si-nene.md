@@ -7,6 +7,7 @@ rate: 2
 video: 'https://flashservice.xvideos.com/embedframe/26354513'
 category: 
  - pinay
+ - quickie
 tags: 
  - pinay-sex
  - nagparaos
@@ -15,6 +16,7 @@ tags:
  - fucked
  - jackpot
  - flawless
+ - hotel
 priority: 0.9
 changefreq: daily
 ---
