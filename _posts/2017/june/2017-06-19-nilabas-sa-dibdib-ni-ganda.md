@@ -7,6 +7,7 @@ rate: 2
 video: 'https://flashservice.xvideos.com/embedframe/27010421'
 category: 
  - pinay
+ - beautiful
 tags: 
  - pinay-sex
  - nagparaos
@@ -15,6 +16,7 @@ tags:
  - fucked
  - jackpot
  - flawless
+ - hotel
 priority: 0.9
 changefreq: daily
 ---

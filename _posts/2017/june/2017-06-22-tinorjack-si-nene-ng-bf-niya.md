@@ -7,6 +7,7 @@ rate: 2
 video: 'https://flashservice.xvideos.com/embedframe/27408285'
 category: 
  - pinay
+ - beautiful
  - student
 tags: 
  - pinay-sex
@@ -14,6 +15,7 @@ tags:
  - mokong
  - fucked
  - jackpot
+ - hotel
 priority: 0.9
 changefreq: daily
 ---
