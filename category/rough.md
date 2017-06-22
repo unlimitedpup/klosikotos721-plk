@@ -2,5 +2,5 @@
 layout: category
 priority: 0.8
 changefreq: daily
-cover-post: Ang ganda ni nene ginahasa ng malaking titi
+cover-post: Grabe kung kumadyot si mokong
 ---
