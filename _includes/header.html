@@ -34,12 +34,13 @@
          </div>
          <div class='header-bottom'>
             <nav class='nav-menu'>
+               <a class='mobile-nav'>{% include icons/mobile-nav.html %}</a>
                <a class="home {% if page.url == '/' %}current{% endif %}" href='/'>{% include icons/home.html %}</a>
                
                {% for menu in site.data.settings.menu %}
                {% if menu.name != 'contact' %}
                {% assign menu-item = menu.name | replace: ' ', '-' %}
-               <a class='{% if page.url contains menu-item %}current{% endif %}' href="/{{ menu.name | replace: ' ', '-' }}">{{ menu.name }}</a>
+               <a class="{{ menu.name | replace: ' ', '-' }}{% if page.url contains menu-item %} current{% endif %}" href="/{{ menu.name | replace: ' ', '-' }}">{{ menu.name }}</a>
                {% endif %}
                {% endfor %}
                
