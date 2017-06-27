@@ -2,6 +2,8 @@ lang: 'en'
 title: 'PalakTube'
 email: 'trawtube@gmail.com'
 
+google-analytics: 'UA-101724073-3'
+
 menu: 
  - {name: 'popular video'}
  - {name: 'top rated'}
