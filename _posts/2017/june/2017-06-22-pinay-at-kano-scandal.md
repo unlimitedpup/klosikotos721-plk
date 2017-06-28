@@ -7,7 +7,7 @@ rate: 2
 video: 'https://flashservice.xvideos.com/embedframe/26625667'
 category: 
  - pinay
- - american
+ - pinay-interracial
 tags: 
  - pinay-sex
  - nene

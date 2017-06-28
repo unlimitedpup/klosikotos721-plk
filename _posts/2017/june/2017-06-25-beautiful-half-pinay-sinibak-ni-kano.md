@@ -8,7 +8,7 @@ video: 'https://flashservice.xvideos.com/embedframe/28311507'
 category: 
  - pinay
  - beautiful
- - american
+ - pinay-interracial
 tags: 
  - pinay-sex
  - nene

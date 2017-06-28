@@ -7,7 +7,7 @@ rate: 2
 video: 'https://flashservice.xvideos.com/embedframe/28519539'
 category: 
  - pinay
- - american
+ - pinay-interracial
  - curvy
  - rough
 tags: 

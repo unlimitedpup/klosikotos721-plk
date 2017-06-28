@@ -1,24 +1,25 @@
 ---
 layout: post
-title: Kinantot si nene ni kano sa hotel
-duration: '05:42'
+title: Cute student pinay got banged in hotel
+duration: '14:41'
 view: 220
 rate: 2
-video: 'https://flashservice.xvideos.com/embedframe/27871647'
+video: 'https://flashservice.xvideos.com/embedframe/26665273'
 category: 
  - pinay
  - beautiful
- - student
  - curvy
- - rough
+ - student
  - pinay-interracial
+ - hd
 tags: 
  - pinay-sex
  - nene
  - mokong
+ - blowjob
+ - dila
+ - sucked
  - hotel
- - jackpot
- - flawless 
 priority: 0.9
 changefreq: daily
 ---
