@@ -8,6 +8,9 @@ video: 'https://flashservice.xvideos.com/embedframe/21394721'
 category: 
  - pinay
  - beautiful
+ - curvy
+ - rough
+ - hd
 tags: 
  - pinay-sex
  - nagparaos
