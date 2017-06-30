@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Two hot pinay got fucked by two laborer
-duration: '23:27'
-view: 342
+title: He recorded his friend fuck his girlfriend
+duration: '17:01'
+view: 242
 rate: 2
-video: 'https://flashservice.xvideos.com/embedframe/2531075'
+video: 'https://flashservice.xvideos.com/embedframe/26354631'
 category: 
  - pinay
  - beautiful
