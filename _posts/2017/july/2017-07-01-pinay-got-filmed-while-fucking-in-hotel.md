@@ -4,7 +4,7 @@ title: Pinay got filmed while fucking in hotel
 duration: '06:33'
 view: 232
 rate: 2
-video: 'https://www.cumlouder.com/embed/45577/'
+video: 'http://chubbycut.com/embed/16790912'
 category: 
  - pinay
  - beautiful
