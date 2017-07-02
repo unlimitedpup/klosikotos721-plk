@@ -4,7 +4,7 @@ title: Pinay got filmed while fucking in hotel
 duration: '06:33'
 view: 232
 rate: 2
-video: 'http://fantasti.cc/embed/1301473/'
+video: 'https://wickedfun.tv/embed/6615'
 category: 
  - pinay
  - beautiful
