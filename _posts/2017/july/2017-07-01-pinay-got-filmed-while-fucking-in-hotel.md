@@ -4,7 +4,7 @@ title: Pinay got filmed while fucking in hotel
 duration: '06:33'
 view: 232
 rate: 2
-video: 'http://www.finevids.xxx/embed/large-boob-romp3'
+video: 'http://fantasti.cc/embed/1301473/'
 category: 
  - pinay
  - beautiful
