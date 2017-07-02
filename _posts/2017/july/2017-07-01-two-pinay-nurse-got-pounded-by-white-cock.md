@@ -4,7 +4,7 @@ title: Two pinay nurse got pounded by white cock
 duration: '03:58'
 view: 245
 rate: 2
-video: 'http://fantasti.cc/embed/sc10637226/'
+video: 'http://fantasti.cc/embed/sc17026931/'
 category: 
  - pinay
  - beautiful
