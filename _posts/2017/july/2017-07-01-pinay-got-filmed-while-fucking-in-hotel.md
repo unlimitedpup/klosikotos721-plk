@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Pinay got filmed while fucking in hotel
-duration: '06:33'
+duration: '23:56'
 view: 232
 rate: 2
-video: 'https://www.faptube.com/embed/25979'
+video: 'https://flashservice.xvideos.com/embedframe/14970297'
 category: 
  - pinay
  - beautiful
