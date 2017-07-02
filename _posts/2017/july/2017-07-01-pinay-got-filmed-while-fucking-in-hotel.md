@@ -4,7 +4,7 @@ title: Pinay got filmed while fucking in hotel
 duration: '06:33'
 view: 232
 rate: 2
-video: 'http://www.ballbustingtube.com/embed/1968624/tied-up-and-denied'
+video: 'https://www.cumlouder.com/embed/45577/'
 category: 
  - pinay
  - beautiful
