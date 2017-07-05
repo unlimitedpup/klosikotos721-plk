@@ -4,7 +4,7 @@ title: Wet pussy pinay call center agent got fuck
 duration: '02:47'
 view: 202
 rate: 2
-video: 'https://embed.heavy-r.com/embedsmall/112218/112218/'
+video: 'www.mofosex.com/embed?videoid=3113931'
 category: 
  - pinay
  - beautiful
