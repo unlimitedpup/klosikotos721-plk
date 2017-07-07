@@ -23,7 +23,7 @@ tags:
  - hotel
  - jackpot
  - karga
- - kumapre
+ - kumpare
  - masterbate
  - mokong
  - nene

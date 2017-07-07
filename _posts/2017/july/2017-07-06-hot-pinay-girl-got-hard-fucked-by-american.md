@@ -24,7 +24,7 @@ tags:
  - hotel
  - jackpot
  - karga
- - kumapre
+ - kumpare
  - mokong
  - nene
  - ontop
